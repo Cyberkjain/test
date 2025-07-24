@@ -3,4 +3,12 @@
         "tenant_id":"4b95f928-105f-4126-9bd9-cc4e63983de8",
         "client_id":"7f319b0e-3593-4b0c-902f-338843d0f67c",
         "client_secret":"uXJ8Q~.1WYndNjtBWpE4uGjd3T-vL.u-mTF14bXd"
+{
+    "platform":"aws",
+    "aws_creds":{
+        "access_key_id":"AKIAVD2S6UYGOO2DCDI3",
+        "secret_key":"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",
+        "region":"eu-north-1"
+    }
+}
     }
